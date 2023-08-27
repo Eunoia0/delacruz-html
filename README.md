@@ -8,7 +8,7 @@ this is test
 <p><a href="#C4">jump to Chapter 4</a></p>
 <p><a href="#C10">jump to Chapter 10</a></p>
 
-<h2>my favorite sport</h2>
+<h2>my favorite car</h2>
 <p>my favorite sport is volleyball. i've been playing volleyball since grade 6 and I was the team captain of the volleyball girls.</p>
 <img src="A.jpg"
 
